@@ -1,10 +1,10 @@
 # Parking-Management-System
-This is a parking management system especially designed for Murdoch University. It is completely in GUI interface.
+This is a parking management system, a student project in unit ICT167, designed completely in GUI.
 
 ## Run Program
 * Ctrl + alt + T (Open terminal or command prompt) 
 * cd dir_location (open directry)
-To compile file:
+**To compile file:**
 * javac filename.java
-To run the generated class file:
+**To run the generated class file:**
 * java filename
